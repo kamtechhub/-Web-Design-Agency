@@ -15,7 +15,7 @@
      - Box Model: The layout demonstrates a solid understanding of the CSS box model, including the effective use of margin, padding, and borders.
 
  ## How to View the Project 👀
-   <p> To see the live page, simply copy this URL => {} and open it in your browser. You can also inspect the code to see how the HTML and CSS work together to create the layout. </p>
+   <p> To see the live page, simply copy this URL => {https://web-design-agency-gilt.vercel.app/} and open it in your browser. You can also inspect the code to see how the HTML and CSS work together to create the layout. </p>
 
  ## Get Started 🛠️
   <p> Feel free to fork this repository to use it as a starting point for your own projects or to practice your HTML and CSS skills! </p>
